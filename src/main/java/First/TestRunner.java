@@ -22,7 +22,11 @@ public class TestRunner {
 		     break;      
 		    }      
 		   }      
-		   if(flag==0)  { System.out.println(n+" is prime number"); }  
+		   if(flag==0)  { System.out.println(n+" is prime number");
+		   
+		   }  
+		   System.out.println("Arun Gupta");
 		  }//end of else  
-		}    
+		}   
+	
 		}   
